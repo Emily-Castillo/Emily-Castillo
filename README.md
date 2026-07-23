@@ -1,8 +1,5 @@
 
 
-<!--
-**Emily-Castillo/Emily-Castillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
   Hi There I am Emily Castillo 
